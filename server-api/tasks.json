@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Manav",
+    "description": "Finish app",
+    "deadline": "2022-11-30T12:45",
+    "urgency": "high",
+    "status": "Not Started",
+    "isCollapsed": true
+  },
+  {
+    "id": 1,
+    "title": "Manav",
+    "description": "Sleeping",
+    "deadline": "2022-12-09T02:17",
+    "urgency": "high",
+    "status": "Not Started",
+    "isCollapsed": true
+  },
+  {
+    "id": 1,
+    "title": "Manav",
+    "description": "Sleeping",
+    "deadline": "2022-12-09T02:17",
+    "urgency": "high",
+    "status": "In Progress",
+    "isCollapsed": true
+  },
+  {
+    "id": 1,
+    "title": "Manav",
+    "description": "Sleeping",
+    "deadline": "2022-12-09T02:17",
+    "urgency": "high",
+    "status": "Completed",
+    "isCollapsed": true
+  },
+  {}
+]
